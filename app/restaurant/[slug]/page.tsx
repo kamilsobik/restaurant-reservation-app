@@ -6,6 +6,10 @@ import RestaurantNavBar from "./components/RestaurantNavBar";
 import Reviews from "./components/Reviews";
 import Title from "./components/Title";
 
+export const metadata = {
+  title: "Restaurant Milestones Grill",
+};
+
 export default function RestaurantDetails() {
   return (
     <>

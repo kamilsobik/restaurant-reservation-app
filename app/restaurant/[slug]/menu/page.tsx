@@ -1,6 +1,10 @@
 import Menu from "../components/Menu";
 import RestaurantNavBar from "../components/RestaurantNavBar";
 
+export const metadata = {
+  title: "Menu of Milestones Grill",
+};
+
 export default function RestaurantMenu() {
   return (
     <>

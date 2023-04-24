@@ -1,6 +1,10 @@
 import Header from "./components/Header";
 import RestaturantCard from "./components/RestaurantCard";
 
+export const metadata = {
+  title: "OpenTable",
+};
+
 export default function Home() {
   return (
     <main>
