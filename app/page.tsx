@@ -36,7 +36,6 @@ export const metadata = {
 
 export default async function Home() {
   const restaurants = await fetchRestaurants();
-
   return (
     <main>
       <Header />
