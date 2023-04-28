@@ -1,7 +1,7 @@
 import Header from "@/app/components/Header";
 import Form from "./components/Form";
 
-export const metafata = {
+export const metadata = {
   title: "Reserve | OpenTable",
 };
 
